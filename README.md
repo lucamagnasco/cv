@@ -1,22 +1,14 @@
-__Luca Magnasco__ 
-
-*D\.N\.I\.* 38\.258\.561
-
-*Date of birth:* 22 / 04 / 1994
+__Luca Magnasco__
 
 *Nationality:* Argentinian \- Italian
-
-*Civil status:* Single
-
-*Telephone:* 011 5317 4739
 
 *E\-mail:* luca\.magnasco@gmail\.com
 
 __Work experience__
 
-2021\(actual\) : Data Scientist ï¿½ Artificial Intelligence consultancy at *Accenture*
+2021\(actual\): Data Scientist – Artificial Intelligence consultancy at *Accenture*
 
-2021\(actual\) : Auxiliar Professor at University of Buenos Aires Course  ï¿½Industries X\.0ï¿½ ï¿½ Python for *ML*
+2021\(actual\): Auxiliar Professor at University of Buenos Aires Course “Industries X\.0” – Python for *ML*
 
 2020: Statistical Modeling Analyst at *Nielsen*
 
@@ -36,11 +28,11 @@ Academic Exchange with Technical Czech University \(CVUT\) at Prague, Czech Repu
 
 Courses:
 
-- ï¿½Operations Analyticsï¿½, ï¿½People Analyticsï¿½ & ï¿½Customer analyticsï¿½ at Wharton School of The University of Pennsylvania \(Online\)
+- “Operations Analytics”, “People Analytics” & “Customer analytics” at Wharton School of The University of Pennsylvania \(Online\)
 - Machine Learning & Image Processing @DataCamp
 - AWS Cloud Practitioner
 
-Bilingual high school bachelor ï¿½St\. Johnï¿½s School Pilarï¿½ \(2011\)\. International exams: IB, IGCSE, DELF
+Bilingual high school bachelor “St\. John’s School Pilar” \(2011\)\. International exams: IB, IGCSE, DELF
 
 __Languages__
 
@@ -50,9 +42,9 @@ English advanced:  UBA C1 certificate \(2019\)
 
 French basic
 
-__IT knowledge __
+__IT knowledge__
 
-Python, SQL, Github and AWS Cloud used at work
+Python, SQL, Git and AWS Cloud used at work
 
 R and html knowledge
 
@@ -60,7 +52,7 @@ Starting with Solidity
 
 Office:  EXCEL UBA 2019 course approved
 
-__Additional information__
+__More about me__
 
-Passionate for sports, environment, & Technology\. I like to surf, play cards with my friends, and read about AI & Blockchain in my free time\. Chosen Teamï¿½s Captain at Alumni Rugby 2017 & 2018, same year in which I was selected for Argentinaï¿½s Second National Team\. 
+Passionate for sports, environment, & Technology\. I like to surf, play cards with my friends, and read about AI & Blockchain in my free time\. Chosen Team’s Captain at Alumni Rugby 2017 & 2018, same year in which I was selected for Argentina’s Second National Team\. 
 
