@@ -31,7 +31,7 @@ Courses:
 - “Operations Analytics”, “People Analytics” & “Customer analytics” at Wharton School of The University of Pennsylvania \(Online\)
 - Machine Learning & Image Processing @DataCamp
 - AWS Cloud Practitioner
-- Microsoft EXCEL UBA course approved
+- Microsoft EXCEL UBA course
 
 Bilingual high school bachelor “St\. John’s School Pilar” \(2011\)\. International exams: IB, IGCSE, DELF
 
